@@ -2,6 +2,7 @@
 さくらのレンタルサーバにRuby 2.1をインストールしてどどんとふを動かす
 
 スタンダードプラン以上が必要、Ruby 2.2 系は rbenv でのインストールに失敗する。
+
 gitのインストール
 cd
 wget --no-check-certificate https://git-core.googlecode.com/files/git-1.9.0.tar.gz
